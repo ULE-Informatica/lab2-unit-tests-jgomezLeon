@@ -1,0 +1,3 @@
+/home/kali/Desktop/master/lab2-unit-tests-jgomezLeon/CMakeFiles/runTests.dir
+/home/kali/Desktop/master/lab2-unit-tests-jgomezLeon/CMakeFiles/edit_cache.dir
+/home/kali/Desktop/master/lab2-unit-tests-jgomezLeon/CMakeFiles/rebuild_cache.dir
